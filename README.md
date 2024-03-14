@@ -28,6 +28,10 @@
 - 店家对机台改装的允许
 - 摄像头至少一枚（用于识别二维码，直播手元需要的摄像头不在这里提及）
 
+### 硬件连接
+
+请见 [HARDWARE](HARDWARE.md)
+
 ### 部署
 
 1. 将 `OBS Studio`, `ArcadeLinkage.UI`, `alls_obs_ad`（可选）, `ALLS.DirectStart`（可选） 下载到直播机上
