@@ -1,3 +1,11 @@
+# Before Using
+
+## This project is abandoned, and the newer one is in progress.
+
+## 项目已经废弃，新项目正在开发中
+
+https://github.com/ArcadeLink/ArcadeLink
+
 # ArcadeLinkage
 
 这是一个帮助音游直播机台实现自助录像、直播等功能的开源项目.  能极大方便录制内录手元等视频
