@@ -4,6 +4,8 @@
 
 ## 项目已经废弃，新项目正在开发中
 
+新项目集成排卡板，直播和录制功能，初版完成后将开源在以下组织：
+
 https://github.com/ArcadeLink/ArcadeLink
 
 # ArcadeLinkage
