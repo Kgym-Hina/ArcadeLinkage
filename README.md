@@ -6,7 +6,7 @@
 
 新项目集成排卡板，直播和录制功能，初版完成后将开源在以下组织：
 
-https://github.com/ArcadeLink/ArcadeLink
+https://github.com/ArcadeLink/
 
 # ArcadeLinkage
 
