@@ -1,8 +1,10 @@
 # Before Using
 
-## This project is abandoned, and the newer one is in progress.
+## This project is abandoned, and the newer one is alse abandoned due to personal reasons.
 
-## 项目已经废弃，新项目正在开发中
+## 项目已经废弃，新项目也已经废弃。因为没有测试场地
+
+测试场地（重庆城市英雄大坪店）关门了，一起做这个项目的曾经的哥们现在也变成了大伞兵，沉溺在自己偏执的思想中去了，只有我和开发本项目安卓app的开发者在活跃，确实没有进行的条件了。如有想继续完善本项目的，欢迎加QQ群，私信或在群聊中告诉我，我会把部分尚未开源的代码发给你，并且把对应项目的归档状态解除，以便发出pr
 
 新项目集成排卡板，直播和录制功能，初版完成后将开源在以下组织：
 
